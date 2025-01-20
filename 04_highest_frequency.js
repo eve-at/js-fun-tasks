@@ -1,4 +1,4 @@
-// 4. Find the most frequant element of the array
+// 4. Implement a function that takes an array and returns the most frequent element of the array
 
 function highestFrequency(arr) {
     const stack = {};

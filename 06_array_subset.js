@@ -1,4 +1,4 @@
-// 6. Determine if the second array is a subset of the first array
+// 6. Write a function that takes two arrays as arguments and returns true if the second array is a subset of the first array.
 
 function arraySubset(source, subset) {
     if (source.length < subset.length) {

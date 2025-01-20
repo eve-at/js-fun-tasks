@@ -1,4 +1,4 @@
-// 8. Rotate the matrix left and right. We suppose that given matrice is square.
+// 8. Implement a function that takes a matrix and returns a matrix rotated 90 degrees to the left or right.
 
 function rotate_matrix(arr, direction = 'left') {
     const result = [];

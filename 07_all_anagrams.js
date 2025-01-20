@@ -1,4 +1,4 @@
-// 7. Verify if all the elements of the array are anagrams
+// 7. Implement a function that takes an array of strings and returns true if all elements in the array are anagrams.
 
 function all_anagrams(arr) {
     const sortedArr = arr.map(el => Array.from(el).sort().join(''));

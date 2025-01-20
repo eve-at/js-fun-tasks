@@ -1,4 +1,4 @@
-// 3. Remove duplicates from the array
+// 3. Implement a function that takes an array and returns an array without duplicates
 
 function removeDuplicates(arr) {
   return Array.from(new Set(arr));

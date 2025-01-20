@@ -1,5 +1,4 @@
-// 1. Verify if the string contains unique characters
-
+// 1. Implement a function that takes a string as an argument and returns true if all the characters in the string are unique, otherwise, it returns false.
 function isUnique(str) {
     return new Set(str).size === str.length
 }

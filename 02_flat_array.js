@@ -1,4 +1,4 @@
-// 2. Transform the multidimentional array into one dimentional
+// 2. Implement a function that takes a multidimentional array and returns a one dimentional array
 
 function flatten(arr) {
     // return arr.reduce((acc, val) => {

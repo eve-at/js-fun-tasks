@@ -1,4 +1,4 @@
-// 5. Determine if the second string is a rotated version of the first string
+// 5. Determine if the second string is a rotated string of the first string
 
 function isStringRotated(str1, str2) {
   if (str1.length !== str2.length) return false;

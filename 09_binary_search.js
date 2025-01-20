@@ -1,4 +1,4 @@
-// 9. Find the index of an element in a sorted array using binary search
+// 9. Implement a function that takes a sorted array and a target element and returns the index of the target element in the array. If the target element is not present in the array, return -1.
 
 function search(arr, target) {
     let left = 0
