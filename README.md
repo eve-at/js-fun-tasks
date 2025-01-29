@@ -46,3 +46,7 @@
 12. [**Deep equal**](12_deep_equal.js)
 
     Write a function that takes two values and returns true only if they are the same value or are objects with the same properties whose values are also equal.
+
+13. [**Fibonacci sequence**](13_fibonacci.js)
+
+    Write a function that returns the sum of a sequence of Fibonacci numbers. The sequence is defined by the following rule: The first two values in the sequence must be 0 and 1. Any subsequent number must be the sum of the two values that immediately precede it. The sequence begins as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.
