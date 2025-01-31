@@ -54,3 +54,7 @@
 14. [**JavaScript bind**](14_bind.js)
 
     Implement bind function in javascript
+
+15. [**Array Group By**](15_groupby.js)
+
+    Write a JavaScript function to group the elements of an array based on the given function `func` and returns the count of elements in each group. The `func` function should be a string or a function. If it is a string, it should be the name of the function as a property of the window object or the name of Array method. If it is a function, it should be a function in the global scope.
